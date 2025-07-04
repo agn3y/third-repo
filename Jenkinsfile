@@ -8,7 +8,7 @@ pipeline {
     }
 
     environment {
-        IMAGE_NAME = 'agneypatel/test-repoo:1.4'
+        IMAGE_NAME = 'agneypatel/test-repoo:1.5'
     }
 
     stages {
